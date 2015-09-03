@@ -31,3 +31,4 @@ var someModule2;
     }
     someModule2.getConfirmAsync = getConfirmAsync;
 })(someModule2 || (someModule2 = {}));
+//# sourceMappingURL=file2.js.map

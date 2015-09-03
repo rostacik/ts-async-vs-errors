@@ -32,3 +32,4 @@ var someModule;
     }
     someModule.someClass = someClass;
 })(someModule || (someModule = {}));
+//# sourceMappingURL=file1.js.map
